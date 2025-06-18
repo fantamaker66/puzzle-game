@@ -1,5 +1,6 @@
 # puzzlegame
-
+FANTA Alvine 
+L3 SOD B
 ## Project setup
 ```
 npm install
